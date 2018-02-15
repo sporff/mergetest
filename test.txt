@@ -4,5 +4,5 @@ line 3
 3 and 4
 line 4
 line 5
-btwn 5 and 6
+5 and 6
 line 6
