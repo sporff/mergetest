@@ -1,8 +1,6 @@
 line 1
 line 2
 line 3
-3 and 4
 line 4
 line 5
-5 and 6
 line 6
