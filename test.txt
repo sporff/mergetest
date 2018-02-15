@@ -3,4 +3,6 @@ line 2 rules
 line 3
 line 4
 line 5
-line 6 is awesome
+line 6 sucks
+line 7
+
